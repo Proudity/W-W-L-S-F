@@ -3,5 +3,9 @@ background-color:blue;
 }
 
 p{
-text-color:yellow;
+font-color:yellow;
+}
+
+h1{
+font-color: rgb(255,0,127);
 }
